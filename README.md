@@ -12,7 +12,8 @@ This is small side project I'm writing in Rails/Javascript, and primarily serves
 
 Currently, I am using:
 * Ruby v.2.5.0
-* Cucumber, Capybara, and RSpec for testing
+* Bootstrap
+* Cucumber, Capybara, and RSpec
 * Travis CI for integration testing
 * Snyk for security validation
 
