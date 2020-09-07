@@ -51,7 +51,7 @@ group :test do
   # Easy installation and use of web drivers to run system tests with browsers
   gem 'webdrivers'
   # Setting up Cucumber
-  gem 'cucumber-rails', require: false
+  gem 'cucumber-rails', '>= 2.1.0', require: false
   gem 'database_cleaner'
 end
 
